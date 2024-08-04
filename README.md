@@ -1,0 +1,2 @@
+# Particle Physics Events Classification Using Machine Learning
+This project develops machine learning models to classify particle physics events. By analyzing complex particle collision data, the system aims to accurately categorize events and improve data interpretation in particle physics research. Advanced algorithms are employed to enhance classification accuracy and support scientific discoveries.
